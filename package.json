@@ -1,6 +1,6 @@
 {
   "name": "highlightjs-eta",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "highlight.js syntax definition for Eta template engine",
   "main": "src/languages/eta.js",
   "browser": "dist/eta.min.js",
