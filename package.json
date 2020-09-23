@@ -4,9 +4,10 @@
   "description": "highlight.js syntax definition for Eta template engine",
   "main": "src/languages/eta.js",
   "browser": "dist/eta.min.js",
-  "directories": {
-    "test": "test"
-  },
+  "files": [
+    "src",
+    "dist"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
